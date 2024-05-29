@@ -7,8 +7,6 @@ import os
 
 st.set_page_config(layout="wide")
 
-st.write(os.environ["DATABASE_URL"])
-
 db_url = os.environ["DATABASE_URL"]
 if db_url is None:
     conn = st.connection("postgresql", type="sql")
