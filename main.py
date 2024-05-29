@@ -13,6 +13,7 @@ db_url = os.environ["DATABASE_URL"]
 if db_url is None:
     conn = st.connection("postgresql", type="sql")
 else:
+    db_url = db_url.replace("postgres://", "postgresql://")
     conn = st.connection("postgresql", type="sql", url=db_url)
 
 # Define custom CSS for the first style
