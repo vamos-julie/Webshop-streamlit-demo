@@ -69,9 +69,8 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Webshop has strength in diversification between different categories of products and labels. The possible drawbacks are low number of high earning/selling brands and great number of brands with sales less than $4,000.
-        This labels might be inefficient costwise, if you consider finding, promoting, maintaining them. Webshop management should conduct further investigation of the most succesful labels on Webshop to identify patterns in promotion and trends in items they sell.
-        Apparel and Footwear which are top selling categories but at the same time top selling products belong to Formal Wear and Accessories. This could be an interestting niche.</div>
+        <div>Webshop is an online store that sells 1,000 products across nine categories: Footwear, Formal Wear, Luggage, Sportswear, Watches & Jewelry, Apparel, Traditional, Cosmetics, and Accessories. Its 1,000 customers have made a total of 2,000 orders.
+        The managers aim to increase Webshop’s sales and efficiency. To achieve this, they would like to understand who their customers are, what they purchase, and what should be done to meet future demand. This data tool is designed to assist managers in the decision-making process.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -84,7 +83,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>In terms of revenues and quantitites of items sold Apparel and Footwear are leading areas for Webshop.</div>
+        <div>In terms of revenues and quantities of items sold, Apparel and Footwear are the leading areas for Webshop.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -161,7 +160,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Sales are equal between male and female products.</div>
+        <div>Sales are equally distributed between male and female products.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -191,7 +190,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>There is only slight concentration of revenues and amounts of products sold on specific brands. Top 20 bestselling labels include brands with sales from $9,000.</div>
+        <div>There is only a slight concentration of revenues and quantities of products sold among specific brands. The top 20 bestselling labels include brands with sales starting from $9,000.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -302,9 +301,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Top selling products for Webshop belong to different categories.
-        The product which brought the biggest revenue was a formal wear item Tuxedo Atlan.
-        Other popular products were pants and shorts, accessories like belts, wraps and scarves and footwear like boots, flip-flops and shoes.</div>
+        <div>Top-selling products for Webshop belong to different categories. The product that generated the highest revenue was a formal wear item, the Tuxedo Atlan. Other popular products included pants and shorts, accessories like belts, wraps, and scarves, as well as footwear such as boots, flip-flops, and shoes.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -381,9 +378,8 @@ st.markdown(
     """
     <div class="custom-info-1">
         <div class="emoji">💡</div>
-        <div>Webshop has strength in diversification between different categories of products and labels. The possible drawbacks are low number of high earning/selling brands and great number of brands with sales less than $4,000.
-        This labels might be inefficient costwise, if you consider finding, promoting, maintaining them. Webshop management should conduct further investigation of the most succesful labels on Webshop to identify patterns in promotion and trends in items they sell.
-        Apparel and Footwear which are top selling categories but at the same time top selling products belong to Formal Wear and Accessories. This could be an interestting niche.</div>
+        <div>Webshop has strength in diversification across different categories of products and labels. However, possible drawbacks include a low number of high-earning brands and a significant number of brands with sales less than $4,000. These labels might be cost-inefficient when considering the resources required to find, promote, and maintain them. Webshop management should conduct further investigation of the most successful labels on Webshop to identify patterns in promotion and trends in the items they sell.
+        Apparel and Footwear are top-selling categories, but the best-selling products belong to Formal Wear and Accessories. This could be an interesting niche to explore further.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -395,8 +391,9 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Only 18 products out of 917 benefited from price reduction, in other words they were sold more after their price was decreased.
-        322 products were sold solely on discount, 295 products were sold without any discounts, 282 products were not sold so far at all.</div>
+        <div>Only 18 products out of 917 benefited from a price reduction; in other words, they were sold more after their price was decreased. A total of 322 products were sold solely on discount, 295 products were sold without any discounts, and 282 products have not been sold at all so far.
+
+</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -455,7 +452,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Cosmetics, Luggage and Footwear were sold on discount the most.</div>
+        <div>Cosmetics, Luggage, and Footwear were the categories sold with the most discounts.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -467,7 +464,7 @@ with st.container(border=True):
         """
         <div class="custom-info-2">
             <div class="emoji">📍</div>
-            <div>Out of 1616 orders with <strong>more than one</strong> product 1448 orders contained at least one product with discount.</div>
+            <div>Out of 1616 orders with <strong>more than one</strong> product, 1448 orders contained at least one product with a discount.</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -500,7 +497,7 @@ with st.container(border=True):
         """
         <div class="custom-info-2">
             <div class="emoji">📍</div>
-            <div>Out of 1616 orders with <strong>more than one</strong> product in 1072 orders were at least one item on sale from such categories as Cosmetics, Luggage and Footwear.</div>
+            <div>Out of 1616 orders with <strong>more than one</strong> product, 1072 orders contained at least one item on sale from categories such as Cosmetics, Luggage, and Footwear.</div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -561,10 +558,8 @@ st.markdown(
     """
     <div class="custom-info-1">
         <div class="emoji">💡</div>
-        <div>Something seems odd with pricing strategy, because only 18 products were sold after they were discounted.
-        Management should investigate the reasons further: maybe Webshop doesn't efficiently convey price reductions to customers or the timing for price reductions is wrong.
-        Research has shown that more than a half of orders contain discounted items. Customers prefer to buy Cosmetics, Luggage and Footwear on sale.
-        This behavior should be investigated further. As customers might create their shopping basket around Apparel, Traditional or Footwear item and impulsively add passing accessories and shoes, if they have a discount. In this case it might be beneficial to offer personal discounts on accessories and shoes, if specific apparel clothing is in the shopping basket.</div>
+        <div>Something seems odd with the pricing strategy because only 18 products were sold after being discounted. Management should investigate the reasons further: perhaps Webshop doesn't efficiently convey price reductions to customers, or the timing for price reductions is incorrect.
+        Research has shown that more than half of orders contain discounted items. Customers prefer to buy Cosmetics, Luggage, and Footwear on sale. This behavior should be investigated further. Customers might create their shopping basket around Apparel, Traditional, or Footwear items and impulsively add passing accessories and shoes if they have a discount. In this case, it might be beneficial to offer personalized discounts on accessories and shoes if specific apparel clothing is in the shopping basket.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -719,8 +714,8 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Webshop has even distribution between male and female customers.
-        Interesting finding is that more than a half of customers are older than 50, and three quarters of customers are older than 40.
+        <div>Webshop has an even distribution between male and female customers.
+        An interesting finding is that more than half of the customers are older than 50, and three-quarters of customers are older than 40.
         Customers over 65 spend the most on purchases.</div>
     </div>
     """,
@@ -762,7 +757,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Most of high-spenders on Webshop are women, but on average amounts of money spent by representatives of each gender is equal.</div>
+        <div>Most of the high spenders on Webshop are women, but on average, the amount of money spent by representatives of each gender is equal.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -838,8 +833,8 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>Recurring customers have slightly higher average checks than customers, who have made only one purchase.
-        Also recurring customers use discounts, but their average value is around 12-13%.</div>
+        <div>Recurring customers have slightly higher average spending than customers who have made only one purchase.
+        Additionally, recurring customers use discounts, but their average discount value is around 12-13%.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -849,9 +844,8 @@ st.markdown(
     """
     <div class="custom-info-1">
         <div class="emoji">💡</div>
-        <div>From the data above we see that Webshop is popular with people above 50. THey become recurring clients and spend more money on Webshop.
-        Management should investigate advertising methods, promotion techniques and website organisation, which led to success among more senior clients.
-        As recurring clients buy with average discount of 12-13% we can offer 10-15 percent discount on second orders.</div>
+        <div>From the data above, we see that Webshop is popular among people above 50. They become recurring clients and spend more money on Webshop. Management should investigate advertising methods, promotion techniques, and website organization that led to success among more senior clients.
+        As recurring clients buy with an average discount of 12-13%, we can offer a 10-15% discount on second orders.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -865,7 +859,7 @@ st.markdown(
     """
     <div class="custom-info-2">
         <div class="emoji">📍</div>
-        <div>The table below shows all products which were popular in the past time periods and are now sold out and almost sold out.</div>
+        <div>The table below shows all products that were popular in the past time periods and are now sold out or almost sold out.</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -959,8 +953,7 @@ st.markdown(
     """
     <div class="custom-info-1">
         <div class="emoji">💡</div>
-        <div>This tool shows that many popular items need restocking as they were bought out by the customers, e.g. the highest selling item Tuxedo Atlan was sold out.
-        Webshop should make a tool for assesing popular items to achieve better restocking opportunities for them.</div>
+        <div>This tool shows that many popular items need restocking as they were bought out by customers. For example, the highest-selling item, Tuxedo Atlan, was sold out. Webshop should create a tool for assessing popular items to achieve better restocking opportunities for them.</div>
     </div>
     """,
     unsafe_allow_html=True,
