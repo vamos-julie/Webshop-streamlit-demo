@@ -31,6 +31,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+
 # Define custom CSS for the second style
 st.markdown(
     """
