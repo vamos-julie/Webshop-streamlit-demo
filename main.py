@@ -3,10 +3,16 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import altair as alt
+import os
 
 st.set_page_config(layout="wide")
 
-conn = st.connection("postgresql", type="sql")
+db_url = os.environ["DATABASE_URL"]
+if db_url is None:
+    conn = st.connection("postgresql", type="sql")
+else:
+    conn = st.connection("postgresql", type="sql", url=db_url)
+
 # Define custom CSS for the first style
 st.markdown(
     """
