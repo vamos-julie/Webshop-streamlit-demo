@@ -799,7 +799,7 @@ bar1 = base.mark_bar(color="#19AAD0").encode(
 text1 = base.mark_text(
     align="center",
     baseline="top",
-    dy=-80,  # Adjust this value to move the text position as needed
+    dy=-90,  # Adjust this value to move the text position as needed
     color="black",
 ).encode(text="average_check:Q")
 
@@ -817,7 +817,7 @@ line = base.mark_line(color="#ff7f0e", size=5).encode(
 )
 chart2 = (
     alt.layer(chart1, line)
-    .resolve_scale(y="independent")  # This specifies that the y-axes are independent
+    .resolve_scale(y="independent")
     .properties(
         width=600,
         title=alt.TitleParams(
