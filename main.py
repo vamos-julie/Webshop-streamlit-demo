@@ -799,7 +799,7 @@ bar1 = base.mark_bar(color="#19AAD0").encode(
 text1 = base.mark_text(
     align="center",
     baseline="top",
-    dy=-90,  # Adjust this value to move the text position as needed
+    dy=-100,  # Adjust this value to move the text position as needed
     color="black",
 ).encode(text="average_check:Q")
 
